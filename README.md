@@ -11,7 +11,7 @@ I am an aspiring Machine Learning Engineer who is interested in learning more an
 - 🌱 I’m currently learning Go, Linux and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Enginnering, Machine Learning/AI Engineer (Intern or Junior level), or Cloud Engineering.
-- 📫 You can [view my resume](https://storage.rxresu.me/clp9g0zo1e98k9hunwnd3p4pv/resumes/Machine Learning Internship Resume - Popoola Emmanuel.pdf) and contact me by emailing epopoola15@gmail.com.
+- 📫 You can [view my resume](- 📫 You can [view my resume](https://storage.rxresu.me/clp9g0zo1e98k9hunwnd3p4pv/resumes/Machine%20Learning%20Internship%20Resume%20-%20Popoola%20Emmanuel.pdf) and contact me by emailing epopoola15@gmail.com.
 
 ---
 
