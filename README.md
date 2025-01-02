@@ -1,6 +1,6 @@
 # Hi, I'm Popoola Emmanuel Oluwadamilola 👋
 
-I'm a **Python programmer** and **Machine Learning enthusiast** focused on building AI-driven solutions. I'm passionate about **DevOps**, **AI in Marketing & Sales**, and continuous learning.
+I'm a **Python programmer** and **Machine Learning enthusiast** focused on building AI-driven solutions. I'm passionate about **DevOps**, **AI & Robotics**, and continuous learning.
 
 ## 🚀 Skills
 
