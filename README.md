@@ -14,13 +14,10 @@ I'm a **Python programmer** and **Machine Learning enthusiast** focused on build
 - DevOps (Linux, Git, Docker)
 - Frontend Development (HTML, CSS)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats | 🧰 Most Used Languages
 
-![Popoola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gifted-Dev&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
-
-## 🧰 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifted-Dev&langs_count=5&layout=compact&theme=radical)
+![Popoola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gifted-Dev&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifted-Dev&langs_count=5&layout=compact&theme=radical)
+|-----------------|--------------------
 
 ## 📬 Let's Connect!
 
