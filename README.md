@@ -1,5 +1,5 @@
 ![image.png](https://files.peakd.com/file/peakd-hive/iam-gifted/Gifted20outro20192020x2024520px.jpg)
-# Hi, I'm Popoola Emmanuel Oluwadamilola 👋
+# Hi, I'm Gifted-Dev👋
 
 I'm a **Python programmer** and **Machine Learning enthusiast** focused on building AI-driven solutions. I'm passionate about **DevOps**, **AI & Robotics**, and continuous learning.
 
