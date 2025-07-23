@@ -9,11 +9,11 @@ I’m a **full-stack Python developer** with strong backend skills **(FastAPI, P
 - **Technologies:** TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI, Linux, Git
 - **Tools:** Jupyter, VSCode, Docker
 
-## 🌱 Currently Learning
+## 🌱 WHAT I'M UP TO
 
 - AI & Machine Learning
 - DevOps (Linux, Git, Docker)
-- Frontend Development (HTML, CSS)
+- Frontend Development (HTML, CSS, JAVASCRIPT, REACT, TAILWIND, VITE)
 
 ## 📊 GitHub Stats | 🧰 Most Used Languages
 
