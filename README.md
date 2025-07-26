@@ -1,7 +1,7 @@
 ![image.png](https://files.peakd.com/file/peakd-hive/iam-gifted/Gifted20outro20192020x2024520px.jpg)
 # Hi, I'm Gifted-Dev👋
 
-I’m a **full-stack Python developer** with strong backend skills **(FastAPI, PostgreSQL)**, and working **DevOps experience** — from CI/CD to deployment using Docker and Render/GitHub Actions.
+I’m a **Python developer** with strong backend skills **(FastAPI, PostgreSQL)**, and working **DevOps experience** — from CI/CD to deployment using Docker and Render/GitHub Actions.
 
 ## 🚀 Skills
 
