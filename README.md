@@ -65,10 +65,8 @@ I care about building systems that compound — clean architecture, durable auto
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gifted-Dev&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gifted-Dev&langs_count=6&layout=compact&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gifted-Dev&theme=radical&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Gifted-Dev/github-stats/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Gifted-Dev/github-stats/generated/languages.svg#gh-dark-mode-only" />
 
 </div>
 
